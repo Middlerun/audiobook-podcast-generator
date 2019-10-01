@@ -1,0 +1,19 @@
+{
+  "name": "audiobook-podcast-generator",
+  "version": "0.1.0",
+  "description": "A tool to generate podcast feeds for groups of audio files",
+  "main": "abrss.js",
+  "bin": {
+    "abrss": "./abrss.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Middlerun/audiobook-podcast-generator.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Middlerun/audiobook-podcast-generator/issues"
+  },
+  "homepage": "https://github.com/Middlerun/audiobook-podcast-generator#readme"
+}
